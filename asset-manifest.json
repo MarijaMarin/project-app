@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project-app/static/css/main.50e37807.chunk.css",
+    "main.js": "/project-app/static/js/main.e143abdc.chunk.js",
+    "main.js.map": "/project-app/static/js/main.e143abdc.chunk.js.map",
+    "runtime-main.js": "/project-app/static/js/runtime-main.f15dae1d.js",
+    "runtime-main.js.map": "/project-app/static/js/runtime-main.f15dae1d.js.map",
+    "static/css/2.fb346933.chunk.css": "/project-app/static/css/2.fb346933.chunk.css",
+    "static/js/2.f3f38dec.chunk.js": "/project-app/static/js/2.f3f38dec.chunk.js",
+    "static/js/2.f3f38dec.chunk.js.map": "/project-app/static/js/2.f3f38dec.chunk.js.map",
+    "index.html": "/project-app/index.html",
+    "precache-manifest.4250521a985ba8dcb657dfb3bed5422a.js": "/project-app/precache-manifest.4250521a985ba8dcb657dfb3bed5422a.js",
+    "service-worker.js": "/project-app/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/project-app/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.50e37807.chunk.css.map": "/project-app/static/css/main.50e37807.chunk.css.map",
+    "static/js/2.f3f38dec.chunk.js.LICENSE.txt": "/project-app/static/js/2.f3f38dec.chunk.js.LICENSE.txt",
+    "static/media/nasa.jpg": "/project-app/static/media/nasa.1d801dd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f15dae1d.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.f3f38dec.chunk.js",
+    "static/css/main.50e37807.chunk.css",
+    "static/js/main.e143abdc.chunk.js"
+  ]
+}
